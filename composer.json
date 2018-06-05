@@ -1,0 +1,12 @@
+{
+    "name": "rozdol/numop",
+    "description": "Testing Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Titoff",
+            "email": "rozdol@gmail.com"
+        }
+    ],
+    "require": {}
+}
