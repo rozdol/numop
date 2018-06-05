@@ -13,5 +13,13 @@
         "psr-4": {
             "Rozdol\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\Rozdol\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
     }
 }
