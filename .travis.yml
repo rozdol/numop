@@ -16,3 +16,6 @@ install:
 script:
   - ./vendor/bin/phpunit tests/
 
+notifications:
+  email:
+    - rozdol@gmail.com
